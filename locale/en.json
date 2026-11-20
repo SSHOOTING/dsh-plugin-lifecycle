@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Plugin Lifecycle Manager",
+    "description": "Infers which installed plugins are still in use, auto-disables dormant ones, and restores them instantly when needed."
+  }
+}
